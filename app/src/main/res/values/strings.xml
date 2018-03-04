@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVMRecyclerView</string>
+
+    <!-- View Tag -->
+    <item name="tag_position" type="id" />
+    <item name="tag_event_id" type="id" />
+
+</resources>
